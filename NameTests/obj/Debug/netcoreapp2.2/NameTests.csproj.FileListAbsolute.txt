@@ -1,0 +1,14 @@
+/home/nate/Development/dotNETcore/NameTests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/home/nate/Development/dotNETcore/NameTests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/home/nate/Development/dotNETcore/NameTests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/home/nate/Development/dotNETcore/NameTests/bin/Debug/netcoreapp2.2/NameTests.deps.json
+/home/nate/Development/dotNETcore/NameTests/bin/Debug/netcoreapp2.2/NameTests.runtimeconfig.json
+/home/nate/Development/dotNETcore/NameTests/bin/Debug/netcoreapp2.2/NameTests.runtimeconfig.dev.json
+/home/nate/Development/dotNETcore/NameTests/bin/Debug/netcoreapp2.2/NameTests.dll
+/home/nate/Development/dotNETcore/NameTests/bin/Debug/netcoreapp2.2/NameTests.pdb
+/home/nate/Development/dotNETcore/NameTests/obj/Debug/netcoreapp2.2/NameTests.csprojAssemblyReference.cache
+/home/nate/Development/dotNETcore/NameTests/obj/Debug/netcoreapp2.2/NameTests.csproj.CoreCompileInputs.cache
+/home/nate/Development/dotNETcore/NameTests/obj/Debug/netcoreapp2.2/NameTests.AssemblyInfoInputs.cache
+/home/nate/Development/dotNETcore/NameTests/obj/Debug/netcoreapp2.2/NameTests.AssemblyInfo.cs
+/home/nate/Development/dotNETcore/NameTests/obj/Debug/netcoreapp2.2/NameTests.dll
+/home/nate/Development/dotNETcore/NameTests/obj/Debug/netcoreapp2.2/NameTests.pdb

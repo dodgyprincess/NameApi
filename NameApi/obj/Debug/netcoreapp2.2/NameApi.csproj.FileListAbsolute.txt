@@ -1,0 +1,14 @@
+/home/nate/Development/dotNETcore/NameApi/bin/Debug/netcoreapp2.2/NameApi.deps.json
+/home/nate/Development/dotNETcore/NameApi/bin/Debug/netcoreapp2.2/NameApi.runtimeconfig.json
+/home/nate/Development/dotNETcore/NameApi/bin/Debug/netcoreapp2.2/NameApi.runtimeconfig.dev.json
+/home/nate/Development/dotNETcore/NameApi/bin/Debug/netcoreapp2.2/NameApi.dll
+/home/nate/Development/dotNETcore/NameApi/bin/Debug/netcoreapp2.2/NameApi.pdb
+/home/nate/Development/dotNETcore/NameApi/obj/Debug/netcoreapp2.2/NameApi.csprojAssemblyReference.cache
+/home/nate/Development/dotNETcore/NameApi/obj/Debug/netcoreapp2.2/NameApi.csproj.CoreCompileInputs.cache
+/home/nate/Development/dotNETcore/NameApi/obj/Debug/netcoreapp2.2/NameApi.RazorAssemblyInfo.cache
+/home/nate/Development/dotNETcore/NameApi/obj/Debug/netcoreapp2.2/NameApi.RazorAssemblyInfo.cs
+/home/nate/Development/dotNETcore/NameApi/obj/Debug/netcoreapp2.2/NameApi.AssemblyInfoInputs.cache
+/home/nate/Development/dotNETcore/NameApi/obj/Debug/netcoreapp2.2/NameApi.AssemblyInfo.cs
+/home/nate/Development/dotNETcore/NameApi/obj/Debug/netcoreapp2.2/NameApi.RazorTargetAssemblyInfo.cache
+/home/nate/Development/dotNETcore/NameApi/obj/Debug/netcoreapp2.2/NameApi.dll
+/home/nate/Development/dotNETcore/NameApi/obj/Debug/netcoreapp2.2/NameApi.pdb
